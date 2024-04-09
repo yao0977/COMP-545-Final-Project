@@ -12,4 +12,4 @@ You will release your code on GitHub, and make it public only at the end of your
 ● Released a PyPi package with instructions (if it’s not relevant, explain why in the GitHub readme, in a section called “Notes about release”)\
   ○ For others to run the experiments\
   ○ To import and reuse parts of the code as a standalone library\
-  ○ Can be installed via `pip` from the official PyPi\
+  ○ Can be installed via `pip` from the official PyPi
