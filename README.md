@@ -1,6 +1,6 @@
 # COMP 545 & LING 782 Final Project
 
-This repository contains the code for analyzing the representation biases in language models, focusing on the semantic similarity of country names based on frequency, GDP, and embeddings generated from various models such as BERT, DistilBERT, GPT-2, and T5.
+This repository contains the code for investigating representation biases in language models, specifically analyzing how the frequency of country mentions, GDP data, and semantic embeddings from models like BERT, DistilBERT, GPT-2, and T5 affect the representation of country names. This includes tasks related to tokenization into subwords, semantic distinctiveness, and prediction accuracy in masked language modeling tasks.
 
 ## Getting Started
 
