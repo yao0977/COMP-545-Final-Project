@@ -67,7 +67,7 @@ For `fill_mask_task_analysis.ipynb`, specific sections that require attention in
 - **Make predictions**: A combination of inherent measure to calculate prediction score provided by the original authors and curtailed measures for GPT-2 and T5 models.
 - **Richer Countries are More Frequently Predicted**: Calculation of the proporation of the least 10 and top 10 frequently mentioned countries in the whole dataset - relevant to main arguments of the project.
 - **Figure 3**: Visualization of the relationship between the number of correct model prediction and logged GDPs of countries - relevant to the main arguments of the project.
-- - **Initialize BERT and BERT-like**, **Initialize GPT2**, and **Initialize T5**: Optional - an overview of how language models are initialized for the project.
+- **Initialize BERT and BERT-like**, **Initialize GPT2**, and **Initialize T5**: Optional - an overview of how language models are initialized for the project.
 - Other parts are also optional for review since they are only responsible for reading in data and checking outputs.
 
 ## Notes about Release
