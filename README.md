@@ -64,7 +64,7 @@ For `fill_mask_task_analysis.ipynb`, specific sections that require attention in
 - **Make predictions**: A combination of inherent measure to calculate prediction score provided by the original authors and curtailed measures for GPT-2 and T5 models.
 - **Richer Countries are More Frequently Predicted**: Calculation of the proporation of the least 10 and top 10 frequently mentioned countries in the whole dataset - relevant to main arguments of the project.
 - **Figure 3**: Visualization of the relationship between the number of correct model prediction and logged GDPs of countries - relevant to the main arguments of the project.
-Other parts are optional for review since they are only responsible for reading file and checking outputs.
+- Other parts are optional for review since they are only responsible for reading file and checking outputs.
 
 ## Notes about Release
 
