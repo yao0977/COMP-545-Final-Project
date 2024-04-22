@@ -1,7 +1,5 @@
 # COMP 545 & LING 782 Final Project
 
-# Semantic Similarity Analysis in Language Models
-
 This repository contains the code for analyzing the representation biases in language models, focusing on the semantic similarity of country names based on frequency, GDP, and embeddings generated from various models such as BERT, DistilBERT, GPT-2, and T5.
 
 ## Getting Started
