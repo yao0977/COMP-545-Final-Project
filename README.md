@@ -38,16 +38,6 @@ In order to run the code, you need to create a directory `/content/drive/MyDrive
 
 These files contain the necessary data for running the experiments and should be placed in the specified directory to ensure the scripts can locate and utilize them correctly.
 
-## Usage
-
-To run the semantic similarity analysis, execute the Python scripts provided in the repository. Each script corresponds to different parts of the analysis for each model:
-
-```bash
-python run_analysis.py
-```
-
-This command will initiate the processing and analysis based on the pre-defined configurations in the script.
-
 ## Documentation
 
 Further details on the code structure and specific functions are provided within the code files through comprehensive commenting. This documentation is intended to make it easier for users to understand and replicate the experiments.
