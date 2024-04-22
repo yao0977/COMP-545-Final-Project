@@ -52,7 +52,16 @@ This command will initiate the processing and analysis based on the pre-defined 
 
 ## Documentation
 
-Further details on the code structure and specific functions are provided within the code files through comprehensive commenting. 
+Further details on the code structure and specific functions are provided within the code files through comprehensive commenting. This documentation is intended to make it easier for users to understand and replicate the experiments.
+
+### Important Information for TAs
+
+For grading and review purposes, please focus on the `COMP545_final_project.ipynb` file and `fill_mask_task_analysis.ipynb` file. For `COMP545_final_project.ipynb`, specific sections that require attention include:
+
+- **LLM Initialization**: Overview of how language models are initialized for the project.
+- **Embedding**: Details on how embeddings are generated from each model.
+- **In-vocabulary**: Explanation and analysis of vocabulary coverage across different models.
+- **Semantic Similarities**: Comprehensive analysis of semantic similarities between country names across models. The functions `analyze_gdp_vs_semantic_similarity_with_line` and `analyze_gdp_vs_semantic_similarity_with_p_value`, along with their subsequent results, are optional for review. We determined that the results from these analyses were not statistically significant, and thus they may be less relevant for understanding the core outcomes of the project.
 
 ## Notes about Release
 
@@ -63,7 +72,7 @@ This project does not include a PyPi package as it is tailored for research purp
 Thanks to all contributors who have provided insights and feedback on this project.
 
 
-
+-----------------------------------
 
 
 
