@@ -12,6 +12,8 @@ The code is written in Python and requires packages like `numpy`, `matplotlib`, 
 pip install numpy matplotlib seaborn scikit-learn torch
 ```
 
+All necessary packages can be seamlessly installed within the Google Colab Notebook environment at the very first code blocks, as the code implementation is conducted there.
+
 ### Installation
 
 Clone this repository to your local machine using:
@@ -62,11 +64,11 @@ For `COMP545_final_project.ipynb`, specific sections that require attention incl
 
 For `fill_mask_task_analysis.ipynb`, specific sections that require attention include:
 
-- **Initialize BERT and BERT-like**, **Initialize GPT2**, and **Initialize T5**: Overview of how language models are initialized for the project.
 - **Make predictions**: A combination of inherent measure to calculate prediction score provided by the original authors and curtailed measures for GPT-2 and T5 models.
 - **Richer Countries are More Frequently Predicted**: Calculation of the proporation of the least 10 and top 10 frequently mentioned countries in the whole dataset - relevant to main arguments of the project.
 - **Figure 3**: Visualization of the relationship between the number of correct model prediction and logged GDPs of countries - relevant to the main arguments of the project.
-- Other parts are optional for review since they are only responsible for reading file and checking outputs.
+- - **Initialize BERT and BERT-like**, **Initialize GPT2**, and **Initialize T5**: Optional - an overview of how language models are initialized for the project.
+- Other parts are also optional for review since they are only responsible for reading in data and checking outputs.
 
 ## Notes about Release
 
